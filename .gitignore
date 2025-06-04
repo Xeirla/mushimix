@@ -1,0 +1,2 @@
+# Ignore WIP directory and all its contents, which contains test files and old code
+/WIP/**
