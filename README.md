@@ -2,11 +2,16 @@
 version 2.0.0
 
 Licensed under the MIT License
+
 Developed by Xeirla (Rur)
+
 2025-2026 January 15
 
+
 PySide6 is Licensed under the LGPL-3.0-only
+
 Qt is Licensed under the LGPL-3.0-only
+
 -----
 
 Small script for converting custom WAV files to Mushihimesama BIN format, to play in the Steam Version of the game.
@@ -66,9 +71,9 @@ Notes:
 - Use Manual Mode to save to "out" folder instead
 
 Currently supported CAVE games (Steam Ver.)
-    ✅ Mushihimesama
-    ✅ DoDonPachi Ressurrection
-    𐄂  Deathsmiles
+- ✅ Mushihimesama
+- ✅ DoDonPachi Ressurrection
+- 𐄂  Deathsmiles
 
 By default the script will create backups of files in the "/mushimix/bk" directory, 
 found in the game's install location. 
@@ -113,7 +118,9 @@ certain situations, such as if you have a dedicated machine to play these games,
 
 # License
 MushiMix is Licensed under the MIT License
+
 PySide6 is Licensed under the LGPL-3.0-only
+
 Qt is Licensed under the LGPL-3.0-only
 
 More information can be found in "LICENSE.md"
